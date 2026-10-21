@@ -39,8 +39,4 @@ The schematic holds two analysis directives. LTspice runs whichever one is enabl
 | `ac_filter.log` | LTspice run log |
 | `docs/schematic.png` | Schematic screenshot |
 
-## Usage
 
-1. Open `ac_filter.asc` in [LTspice](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html).
-2. Run the simulation.
-3. Probe the `Line1`, `Line2` and `Line3` nodes to see the filtered output.
